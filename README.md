@@ -178,4 +178,4 @@ _Desplegado en Vercel con integración continua desde GitHub_
 
 ---
 
-_Desarrollado con 💚 por el Grupo 7_
+_Desarrollado con 💚 por el Grupo 13
